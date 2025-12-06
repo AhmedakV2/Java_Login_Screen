@@ -5,14 +5,6 @@ A simple desktop application demonstrating a user **Login** and **Registration**
 
 **⚠️ Note:** This project focuses on **UI design** and basic **event handling**. It does **not** currently use an external database (SQL, etc.). Data is handled temporarily within the application runtime (or uses hardcoded credentials).
 
----
-
-## 📸 Screenshots
-
-[Insert Login Screen Screenshot Here]
-[Insert Registration Screen Screenshot Here]
-
----
 
 ## ✨ Features
 
@@ -64,8 +56,8 @@ Since this version does not use a database, future updates might include:
 
 **[Adın Soyadın]**
 
-* GitHub: [@KullaniciAdin](https://github.com/KullaniciAdin)
-* LinkedIn: [LinkedIn Profilin](https://linkedin.com/in/profilin)
+* GitHub: [@AhmedakV2](https://github.com/AhmedakV2)
+* LinkedIn: [LinkedIn Profilin](www.linkedin.com/in/ahmed-akınkoç-41a0a9388)
 
 ---
 
